@@ -1,164 +1,296 @@
-📝 ***Feel free to contact me. I am always here ...*** 
+<!-- ZubairGrowth GitHub Profile README (GitHub-safe HTML only) -->
 
-[![Mail](https://img.shields.io/badge/Gmail-zubairhmd84@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:zubairhmd84@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-8801619141476-0?logo=whatsapp&logoColor=blue&labelColor=black)](tel:+880-1619141476)
-[![WhatsApp](https://img.shields.io/badge/USANo-+1(818)9270006-6?logo=whatsapp&logoColor=blue&labelColor=black)](tel:+18189270006)
-[![Skype](https://img.shields.io/badge/Skype-zubairhmd-blue?logo=skype&logoColor=blue&labelColor=black)](zubairhmd)
-[![Zoom](https://img.shields.io/badge/Zoom-zubairhmd84@gmail.com-maroon?logo=zoom&logoColor=black&labelColor=blue)](zubairhmd84@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-devzubair-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/devzubair/)
+<div align="center">
 
-<h2 align='center'><samp><strong>Hi there 👋, I am Md. Zubair Ahmed</strong></samp></h2>
-<h3 align='center'><strong><a href="https://devzubair.netlify.app/" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Front-End Developer | React-JS Developer | WordPress Developer | Learning MERN</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1630,100:1B3A8A&height=220&section=header&text=ZUBAIR%20GROWTH&fontColor=F5B301&fontSize=56&fontAlignY=38&desc=Digital%20Marketing%20%7C%20Analytics%20%26%20Web%20Solutions%20Specialist&descSize=18&descAlignY=60" width="100%" alt="Zubair Growth banner" />
 
-### <h2 align='center'><samp><strong><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  </strong></samp></h2>
-<!-- # Hi there. I am Md. Zubair Ahmed 👋 . Welcome to my Profile!!!   -->
-<!-- # Hi there. I am Md. Zubair Ahmed 👋 . Welcome to my Profile!!!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kritika-pattalam.repoName) -->
-<img src='https://raw.githubusercontent.com/dev-zubair/devzubair--33-api-examples/main/developer.gif' width='350"'> </p>
+**Google Ads • Conversion Tracking • Server-Side Tracking • Web Development • Local SEO**
 
-I am an Experienced **Front-End React and WordPress Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Bootstrap, JavaScript, Express, NodeJS, MongoDB, Mean Stack, RESTfull API’s, PSD to WordPress, PSD to HTML, User Experience and WordPress.**
+*Better Data. Smarter Strategy. Real Growth.*
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
-
-**Professionally** – I’m Front End Develoer, A WordPress Developer, A Freelancer- in Upwork.
-
-**Personally** – I’m a husband, girl dad (2x), family man. And I'm a cricketer and a singer in a past life.
-
-
-<!-- - 🏢 Working as a **Freelancer** <a href="https://www.upwork.com/freelancers/~01e484fb837b72ab1b" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/UpWork-6FDA44?style=plastic&logo=Upwork&logoColor=white" /> 
-  </a>  <a href="https://www.freelancer.com/u/zubair84" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/Freelancer-29B2FE?style=plastic&logo=Freelancer&logoColor=white" />  -->
-<!--   </a>  <a href="https://www.linkedin.com/in/devzubair/" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/fiverr-1DBF73?style=plastic&logo=fiverr&logoColor=white" />
-  </a> -->
-
-
-- 💻 I Use Daily:
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-
-- 🌱 Learning all about:
-  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=material-UI)
-  
-<!-- - 💬 Ask me about: JavaScript, React, CSS.
-
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/dev_zubair?style=social)](https://twitter.com/dev_zubair)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-devzubair-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devzubair/)](https://www.linkedin.com/in/devzubair/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/dev-zubair?label=follow&style=social)](https://github.com/dev-zubair)
- -->
-----
-
-<!-- ## 📫 How to reach me: 
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:zubairhmd84@gmail.com)
-<a href="mailto:zubairhmd84@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)</a>
-<img alt="" src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" />
-<img alt="" src="https://img.shields.io/badge/Skype-blue?style=plastic&logo=skype&logoColor=white" />
-<img alt="" src="https://img.shields.io/badge/Messenger-00B2FF?style=plastic&logo=messenger&logoColor=white" />
-<a href="https://www.linkedin.com/in/devzubair/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)</a>
-<a href="https://stackoverflow.com/users/16844562/devzubair"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a> -->
-
-
-## 👩‍💻 Languages | Frameworks | Tools
-
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=plastic&logo=sass&logoColor=white" />
-<!--   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" /> -->
-  <img alt="" src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" />
-  <img alt="" src="https://img.shields.io/badge/json-5E5C5C?style=plastic&logo=json&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=plastic&logo=npm&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS" />
-  <img alt="Saas" src="https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white" />
-  <img alt="Material" src="https://img.shields.io/badge/Material--UI-0081CB?style=plastic&logo=material-ui&logoColor=white" />
-  <img alt="ReactRouter" src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=plastic&logo=firebase&logoColor=black" />
-  <img alt="Xampp" src="https://img.shields.io/badge/Xampp-F37623?style=plastic&logo=xampp&logoColor=white" />
-  <img alt="FontAwesome" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=plastic&logo=fontawesome&logoColor=white" />
-  <img alt="" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=plastic&logo=google%20analytics&logoColor=white" />
-  <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white">
-  <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" />
-  <img alt="" src="https://img.shields.io/badge/Yarn-2C8EBB?style=plastic&logo=yarn&logoColor=white" />
-  <img alt="" src="https://img.shields.io/badge/JWT-000000?style=plastic&logo=JSON%20web%20tokens&logoColor=white" />
-</p>
-
-## ☁ Cloud & Hosting | ⚡ Database
-<p>
-  <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" /><img alt="" src="https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages" />
-  <img alt="" src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white" />
-  <img alt="" src="https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white" />
-  <img alt="" src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white" />
-  <img alt="" src="https://img.shields.io/badge/MongoDB-white?style=plastic&logo=mongodb&logoColor=4EA94B" />
-</p>
-
-## 🎓📚 Education 
-<img alt="" src="https://img.shields.io/badge/Udemy-EC5252?style=plastic&logo=Udemy&logoColor=white" /> <img alt="" src="https://img.shields.io/badge/free%20code%20camp-27273D?style=plastic&logo=freecodecamp&logoColor=white" /> <img alt="" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=plastic&logo=mdnwebdocs&logoColor=white" />
-
-## 🍔🍕 I Love Food
-<img alt="" src="https://img.shields.io/badge/Uber_Eats-5FB709?style=plastic&logo=uber-eats&logoColor=white" /> <img alt="" src="https://img.shields.io/badge/KFC-F40027?style=plastic&logo=kfc&logoColor=white" /> <img alt="" src="https://img.shields.io/badge/foodpanda-E23744?style=plastic&logo=zomato&logoColor=white" />
-
-
-## 🤜🤛 Group 
-
-<p>
-  <img alt="" src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white" />
-  <img alt="" src="https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white" />
-  
-  <img alt="" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white" />
-  <img alt="" src="https://img.shields.io/badge/Zoom-2D8CFF?style=plastic&logo=zoom&logoColor=white" />
-  <img alt="" src="https://img.shields.io/badge/Google%20Meet-32A350?style=plastic&logo=google-meet&logoColor=white" />
-</p>
-
-----------
-<h2><i>Follow me:</i></h2>
-<div  align="center">
-
-  <p align="center">
-  <a target="_blank" href="https://twitter.com/dev_zubair">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/devzubair/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/devzubair/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
-<!--   <a href="https://medium.com/@Demartini" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
-  </a> -->
-  <a href="https://www.facebook.com/mdzubairahmed/" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
-  </a>
-</p>
 </div>
 
+---
 
-<p align="center">
-	<strong>Consider giving my work a :star: to show some :heart:</strong>
+<h1>👋 Hi there, I'm Md. Zubair Ahmed</h1>
+<h3>Digital Marketing, Analytics &amp; Web Solutions Specialist</h3>
+
+I help businesses grow through data-driven marketing, measurable advertising, analytics, tracking and practical web solutions.
+
+<p align="left">
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0B1630?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/YOUR_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-0B1630?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" /></a>
+  <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0B1630?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-1B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<hr>
+---
+
+## ⚡ What I Do
+*End-to-end digital marketing, analytics, tracking and web solutions.*
+
+<table>
+  <tr>
+    <td width="20%" valign="top">
+      <h4>📊 Analytics &amp; Tracking</h4>
+      GA4, GTM, Conversion Tracking, Server-Side Tracking and more.
+    </td>
+    <td width="20%" valign="top">
+      <h4>📢 Paid Advertising</h4>
+      Google Ads, Meta Ads, campaigns, audits, optimization and performance tracking.
+    </td>
+    <td width="20%" valign="top">
+      <h4>💻 Web Solutions</h4>
+      Website development, maintenance, revamps, landing pages and technical implementation.
+    </td>
+    <td width="20%" valign="top">
+      <h4>📍 Local SEO &amp; GBP</h4>
+      Google Business Profile, local SEO, content creation, posting, maps visibility and optimization.
+    </td>
+    <td width="20%" valign="top">
+      <h4>📈 Digital Marketing &amp; Measurement</h4>
+      Marketing analytics, attribution, funnel measurement and data-driven growth.
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚙️ Core Expertise
+*Key areas I specialize in and work on regularly.*
+
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <h4>📊 Analytics &amp; Tracking</h4>
+      ✅ GA4 &amp; Google Tag Manager<br>
+      ✅ Conversion Tracking<br>
+      ✅ Meta Pixel &amp; CAPI<br>
+      ✅ Server-Side Tracking<br>
+      ✅ Enhanced Conversions<br>
+      ✅ Tracking Audits &amp; Troubleshooting
+    </td>
+    <td width="25%" valign="top">
+      <h4>📢 Paid Advertising</h4>
+      ✅ Google Ads (Setup &amp; Management)<br>
+      ✅ Campaigns Optimization<br>
+      ✅ Google Ads Audits<br>
+      ✅ Meta Ads<br>
+      ✅ Conversion Tracking<br>
+      ✅ Landing Page Strategy
+    </td>
+    <td width="25%" valign="top">
+      <h4>💻 Web Development &amp; Solutions</h4>
+      ✅ WordPress &amp; Elementor<br>
+      ✅ Website Development<br>
+      ✅ Website Maintenance<br>
+      ✅ Website Revamp<br>
+      ✅ Landing Page Development<br>
+      ✅ HTML, CSS, JavaScript<br>
+      ✅ React (Learning)
+    </td>
+    <td width="25%" valign="top">
+      <h4>📍 Local SEO &amp; GBP</h4>
+      ✅ Google Business Profile<br>
+      ✅ GBP Optimization<br>
+      ✅ GBP Content Creation<br>
+      ✅ GBP Posting<br>
+      ✅ Local SEO Activities<br>
+      ✅ Google Maps Visibility<br>
+      ✅ Local SEO Audits
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Tracking Ecosystem
+*From ads to optimization — complete tracking across multiple platforms.*
+
+<div align="center">
+
+**📢 Ads** &nbsp;➜&nbsp; **🏷️ Tracking** &nbsp;➜&nbsp; **📊 Analytics** &nbsp;➜&nbsp; **🗄️ Conversion Data** &nbsp;➜&nbsp; **📈 Optimization**
+
+</div>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><img src="https://img.shields.io/badge/-Google-4285F4?logo=google&logoColor=white" alt="Google" /></h4>
+      • GA4 • GTM<br>
+      • Google Ads Conversion Tracking<br>
+      • Enhanced Conversions<br>
+      • Offline Conversion Tracking
+    </td>
+    <td width="33%" valign="top">
+      <h4><img src="https://img.shields.io/badge/-Meta-0866FF?logo=meta&logoColor=white" alt="Meta" /></h4>
+      • Meta Pixel<br>
+      • Meta Conversions API<br>
+      • Server-Side Tracking
+    </td>
+    <td width="34%" valign="top">
+      <h4>Other Platforms</h4>
+      <img src="https://img.shields.io/badge/-Snapchat-FFFC00?logo=snapchat&logoColor=black" alt="Snapchat" />
+      <img src="https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit" />
+      <img src="https://img.shields.io/badge/-Pinterest-E60023?logo=pinterest&logoColor=white" alt="Pinterest" />
+      <img src="https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white" alt="TikTok" />
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/-Microsoft%20Bing-008373?logo=microsoftbing&logoColor=white" alt="Bing" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+*Where I work and what I do.*
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>S3 Marketing Solutions</h4>
+      <i>Digital marketing &amp; technical marketing</i><br><br>
+      GBP • Local SEO • Google Ads • Analytics<br>
+      GTM • Server-Side Tracking • Landing Pages<br>
+      Website Support
+    </td>
+    <td width="33%" valign="top">
+      <h4>Catch Local</h4>
+      <i>Web development &amp; technical support</i><br><br>
+      Website development • Maintenance<br>
+      Revamps • Updates • Tracking<br>
+      Website analytics support
+    </td>
+    <td width="34%" valign="top">
+      <h4>Trusted Local</h4>
+      <i>Web development &amp; technical support</i><br><br>
+      Website development • Maintenance<br>
+      Revamps • Updates • Tracking<br>
+      Website analytics support
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🖥️ Freelance Experience
+*Independent projects and client work.*
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><img src="https://img.shields.io/badge/-Upwork-14A800?logo=upwork&logoColor=white" alt="Upwork" /></h4>
+      Website development • Website maintenance • Analytics &amp; tracking<br>
+      Conversion tracking • Server-side tracking • Google Ads • Meta Ads<br>
+      Digital marketing analytics
+    </td>
+    <td width="50%" valign="top">
+      <h4><img src="https://img.shields.io/badge/-Fiverr-1DBF73?logo=fiverr&logoColor=white" alt="Fiverr" /></h4>
+      Google Ads • Conversion tracking • Server-side tracking<br>
+      Meta Pixel/CAPI • Analytics implementation • Tracking audits<br>
+      Cross-platform tracking solutions
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📁 Featured Projects
+*Practical solutions, guides and frameworks.*
+
+<table>
+  <tr>
+    <td width="20%" valign="top">
+      <b>Google Ads Audit Framework</b><br>
+      <sub>Audit • Strategy • Optimization</sub>
+    </td>
+    <td width="20%" valign="top">
+      <b>Conversion Tracking Framework</b><br>
+      <sub>GA4 • GTM • Meta Pixel • CAPI</sub>
+    </td>
+    <td width="20%" valign="top">
+      <b>Server-Side Tracking Guide</b><br>
+      <sub>GTM • Server-Side • Enhanced</sub>
+    </td>
+    <td width="20%" valign="top">
+      <b>Local SEO &amp; GBP Framework</b><br>
+      <sub>GBP • Local SEO • Optimization</sub>
+    </td>
+    <td width="20%" valign="top">
+      <b>Marketing Analytics Dashboard</b><br>
+      <sub>Data • Reporting • Insights</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📖 Learning &amp; Development
+*Continuously expanding my expertise.*
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Programming Hero</h4>
+      • React<br>
+      • Modern Frontend Development
+    </td>
+    <td width="33%" valign="top">
+      <h4>Skill Upper</h4>
+      • Digital Marketing • Google Ads • Meta Ads<br>
+      • Google Analytics • Server-Side Tracking
+    </td>
+    <td width="34%" valign="top">
+      <h4>Web Analytics Solution</h4>
+      Advanced Tracking • Offline Conversion Tracking<br>
+      Cross-platform Tracking • Marketing Analytics
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tools &amp; Technologies
+
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-   <br>
-   <i>You miss 100% of the shots you don't take.</i>
-   <br>
-<br>
+  <img src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="GA4" />
+  <img src="https://img.shields.io/badge/-Tag%20Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" alt="GTM" />
+  <img src="https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" alt="Google Ads" />
+  <img src="https://img.shields.io/badge/-Business%20Profile-34A853?style=flat-square&logo=googlemaps&logoColor=white" alt="GBP" />
+  <img src="https://img.shields.io/badge/-Meta%20Ads-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Ads" />
+  <img src="https://img.shields.io/badge/-Meta%20Pixel%20%2F%20CAPI-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Pixel" />
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=black" alt="Snapchat" />
+  <img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" />
+  <img src="https://img.shields.io/badge/-Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest" />
+  <img src="https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Bing-008373?style=flat-square&logo=microsoftbing&logoColor=white" alt="Bing" />
+</p>
 
+---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<div align="center">
 
+### 📬 Let's work together
+*Have a project in mind? I'd love to help.*
+
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0B1630?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://wa.me/YOUR_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-0B1630?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" /></a>
+<a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0B1630?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-1B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
+<br><br>
+
+**ZUBAIR GROWTH** — *Better Data. Smarter Decisions.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A8A,100:0B1630&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
